@@ -1,0 +1,23 @@
+{
+  "size": {
+    "max": 999.9,
+    "min": -999.9,
+    "units": "m"
+  },
+  "units": [
+    "m",
+    "meters",
+    "cm",
+    "centimeters",
+    "ft",
+    "feet",
+    "in",
+    "inches"],
+  "resolution": {
+    "min": 0.001,
+    "units": "m"
+  },
+  "party": [
+    "Picachu"
+  ]
+}
